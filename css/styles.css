@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+
 section {
   min-height: 100vh;  
 
 }
-
+body {
+  font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth;
+}
 
 header {
   min-height: 100vh;  
