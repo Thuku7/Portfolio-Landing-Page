@@ -135,9 +135,17 @@ div.card {
 
 #home > div > h1:hover {
   color:#00ADB5;
-  
   transition-timing-function:ease-out;
   transition-delay: 20ms;
   font-weight: 900;
+  text-shadow: 2px 2px 6px #222831;
   
+}
+
+#home > div > p > span:hover  {
+  color:#00ADB5;
+  transition-timing-function:ease-out;
+  transition-delay: 20ms;
+  font-weight: 900;
+  text-shadow: 2px 2px 6px #222831;
 }
