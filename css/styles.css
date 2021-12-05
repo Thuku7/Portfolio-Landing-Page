@@ -84,7 +84,17 @@ div.card {
 }
 
 .social-icons img {
-  max-width: 40px;
-  max-height: 40px;
+  max-width: 32px;
+  max-height: 32px;
+  margin-right: 10px;
 }
  
+.social-icons {
+  display: flex;
+  justify-content: space-around;
+  max-height: 60%;
+  background-color: darkslategrey;
+  padding: 40px;
+  justify-content: center;
+
+}
