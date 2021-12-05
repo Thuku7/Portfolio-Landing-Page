@@ -1,4 +1,5 @@
 ##Project-Name
+
 Portfolio-Landing-Page by Robert Kimani
 
 
@@ -7,7 +8,9 @@ It's a Portfolio page accompanied by links to some of my projects
 
 ## Technologies Used
 
- HTML & CSS (Bootstrap)
+ HTML
+ Css
+ Bootstrap 4
 
 
 ##### Setup Instructions and Installation
