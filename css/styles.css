@@ -2,6 +2,7 @@
 
 
 
+
 section {
   min-height: 100vh;  
 
@@ -132,3 +133,11 @@ div.card {
   color:#393E46;
 }
 
+#home > div > h1:hover {
+  color:#00ADB5;
+  
+  transition-timing-function:ease-out;
+  transition-delay: 20ms;
+  font-weight: 900;
+  
+}
