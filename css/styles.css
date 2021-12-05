@@ -82,4 +82,9 @@ div.card {
   
 
 }
+
+.social-icons img {
+  max-width: 40px;
+  max-height: 40px;
+}
  
