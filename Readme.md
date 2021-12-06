@@ -1,4 +1,5 @@
 ##Project-Name
+
 Portfolio-Landing-Page by Robert Kimani
 
 
@@ -12,7 +13,7 @@ It's a Portfolio page accompanied by links to some of my projects
 
 ##### Setup Instructions and Installation
 
--On my git hut page go to the respective repo.
+-On my github page go to the respective repo.
 Open the live Url provided for the repo
 
 
