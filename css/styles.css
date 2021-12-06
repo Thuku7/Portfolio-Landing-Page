@@ -131,15 +131,16 @@ div.card {
 
 
 #project > div > div > button > a:link {
-  color:#393E46;
+  color:goldenrod;
   background-color:#00ADB5;
 }
 
-/**#project > div > div > button > a:visited {
+#project > div > div > button > a:visited {
   background-color:#00ADB5;
-  color: goldenrod;
+  color:#393E46;
+  
 }
-**/
+
 #project > div > div > button > a:hover {
   color: red;
   background-color:#00ADB5;
